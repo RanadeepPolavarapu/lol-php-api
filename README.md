@@ -1,5 +1,3 @@
-------------------------------
-
 # League of Legends PHP API
 
 Unofficial RTMP API fully PHP and asynchronous for League of Legends.  
