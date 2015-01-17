@@ -84,3 +84,5 @@ The RTMP client class is a PHP partial rewrite of the awesome [Gabriel Van Eyck'
 [Creative Commons Attribution-ShareAlike 3.0](./LICENCE.md)
 
 *League of Legends and Riot Games are trademarks or registered trademarks of Riot Games, Inc. League of Legends (c) Riot Games, Inc.*
+
+Version: Jan 17, 2015 - 2:25 PM. Fixed Patch 5.1 issues for null response on certain routes.
